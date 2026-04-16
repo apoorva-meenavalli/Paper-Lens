@@ -5,7 +5,7 @@
 __pycache__/
 *.pyc
 
-# Uploaded User Files (Don't upload other people's PDFs to your GitHub)
+# Uploaded User Files
 uploads/
 
 # Virtual Environments
