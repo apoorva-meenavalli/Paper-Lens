@@ -1,0 +1,13 @@
+# Secret API Keys
+.env
+
+# Python Cache (Junk files)
+__pycache__/
+*.pyc
+
+# Uploaded User Files (Don't upload other people's PDFs to your GitHub)
+uploads/
+
+# Virtual Environments
+venv/
+env/
